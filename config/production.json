@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://koen93:welkomkoen@socialdev-mjnec.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "6d69a1abf4b9949775fc",
+  "githubSecret": "544b3be4fc6ab1e256c51d5c54f7362f83e77ea5"
+}
